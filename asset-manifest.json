@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/A_protofolio/static/css/main.5412cd93.chunk.css",
+    "main.js": "/A_protofolio/static/js/main.9ee4a7cf.chunk.js",
+    "main.js.map": "/A_protofolio/static/js/main.9ee4a7cf.chunk.js.map",
+    "runtime-main.js": "/A_protofolio/static/js/runtime-main.606b7305.js",
+    "runtime-main.js.map": "/A_protofolio/static/js/runtime-main.606b7305.js.map",
+    "static/js/2.9f025a28.chunk.js": "/A_protofolio/static/js/2.9f025a28.chunk.js",
+    "static/js/2.9f025a28.chunk.js.map": "/A_protofolio/static/js/2.9f025a28.chunk.js.map",
+    "index.html": "/A_protofolio/index.html",
+    "precache-manifest.ad8ccb75fc4bca6598ab943cabff034d.js": "/A_protofolio/precache-manifest.ad8ccb75fc4bca6598ab943cabff034d.js",
+    "service-worker.js": "/A_protofolio/service-worker.js",
+    "static/css/main.5412cd93.chunk.css.map": "/A_protofolio/static/css/main.5412cd93.chunk.css.map",
+    "static/js/2.9f025a28.chunk.js.LICENSE.txt": "/A_protofolio/static/js/2.9f025a28.chunk.js.LICENSE.txt",
+    "static/media/A.png": "/A_protofolio/static/media/A.dd52ff34.png",
+    "static/media/abt.png": "/A_protofolio/static/media/abt.54320817.png",
+    "static/media/angularjs.png": "/A_protofolio/static/media/angularjs.7522e426.png",
+    "static/media/covid.jpg": "/A_protofolio/static/media/covid.f3b0dbc4.jpg",
+    "static/media/insure.jpg": "/A_protofolio/static/media/insure.3180a1fa.jpg",
+    "static/media/js.png": "/A_protofolio/static/media/js.b502449e.png",
+    "static/media/logo.svg": "/A_protofolio/static/media/logo.5d5d9eef.svg",
+    "static/media/memory.png": "/A_protofolio/static/media/memory.8afa85b9.png",
+    "static/media/node.png": "/A_protofolio/static/media/node.9100f2eb.png",
+    "static/media/proj.png": "/A_protofolio/static/media/proj.9084ee0f.png",
+    "static/media/quiz.jpg": "/A_protofolio/static/media/quiz.63827264.jpg",
+    "static/media/repo.png": "/A_protofolio/static/media/repo.893ec818.png",
+    "static/media/skill.png": "/A_protofolio/static/media/skill.4e4ba1f6.png",
+    "static/media/tictac.jpg": "/A_protofolio/static/media/tictac.10bff956.jpg",
+    "static/media/todo.jpg": "/A_protofolio/static/media/todo.10d0da7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606b7305.js",
+    "static/js/2.9f025a28.chunk.js",
+    "static/css/main.5412cd93.chunk.css",
+    "static/js/main.9ee4a7cf.chunk.js"
+  ]
+}
